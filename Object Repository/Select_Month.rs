@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select_Month</name>
+   <tag></tag>
+   <elementGuidId>08d86709-fb1d-4a78-b3fb-f2d5177a9c2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;__next&quot;]/div[1]/div/div/div/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/div/div[2]/div/div[1]/div/select[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

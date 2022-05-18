@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Password</name>
+   <tag></tag>
+   <elementGuidId>a16d3217-0372-4332-b615-754b0ab9d176</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div[2]/div/form/div[3]/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-eCImvq.utEJO > div.sc-ezbkgU.dGZnUN > label.sc-kLwgWK.hgqcHT > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sc-eCImvq jQnfci&quot;]/div[@class=&quot;sc-gKckTs gWJgNk&quot;]/div[@class=&quot;sc-eCImvq fRSMEk&quot;]/div[@class=&quot;sc-bqiQRQ jlvGgo&quot;]/div[@class=&quot;sc-jRQAMF eZoGMb&quot;]/div[@class=&quot;sc-eCImvq WWva&quot;]/form[1]/div[@class=&quot;sc-eCImvq utEJO&quot;]/div[@class=&quot;sc-ezbkgU dGZnUN&quot;]/label[@class=&quot;sc-kLwgWK hgqcHT&quot;]/span[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div[2]/div/form/div[3]/div/label/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lengkap'])[1]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password minimal 6 karakter'])[1]/preceding::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/label/span</value>
+   </webElementXpaths>
+</WebElementEntity>
